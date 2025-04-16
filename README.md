@@ -65,7 +65,7 @@
 <br>
 <h2 align="center">🎯 My Favorites Quote Random ⭐ </h2>
 <br>
-<div align="right">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=darklayout=default)
-</div>
+<a href="#" target="_blank">
+  <img src="svg/toandev-quotes.svg" width="846" height="150" />
+</a>
 
