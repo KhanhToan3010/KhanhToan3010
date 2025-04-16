@@ -61,3 +61,11 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="toandev-email" />
   </a>
 </div>
+
+<br>
+<h2 align="center">🎯 My Favorites Quote Random ⭐ </h2>
+<br>
+<div align="center">
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default)
+</div>
+
