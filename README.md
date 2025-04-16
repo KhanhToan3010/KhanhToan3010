@@ -1,6 +1,7 @@
 <!-- # KhanhToan3010 -->
 <a href="#" target="_blank">
-  <img src="svg/toandev.svg" width="1200" alt="toandev-official" />
+tech&tools
+   <img src="svg/toandev.svg" width="1200" alt="toandev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -33,3 +34,4 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
+main
