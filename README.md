@@ -65,7 +65,7 @@
 <br>
 <h2 align="center">🎯 My Favorites Quote Random ⭐ </h2>
 <br>
-<div align="center">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default)
+<div align="right">
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=darklayout=default)
 </div>
 
