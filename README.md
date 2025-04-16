@@ -46,3 +46,19 @@ tech&tools
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=KhanhToan3010&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
+
+<br>
+<h2 align="center"> Where to find me 🔍</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100074924184388" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="toandev-facebook" />
+  </a>
+  <a href="https://www.instagram.com/khanhtoan3010/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="toandev-instagram" />
+  </a>
+  <a href="mailto:khanhtoan18079261@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="toandev-email" />
+  </a>
+</div>
